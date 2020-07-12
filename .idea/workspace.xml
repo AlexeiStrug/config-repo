@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17e78344-a55b-4c9c-bb5f-1e8f048f6ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/application-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/application-local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beer-service/application-local-discovery.properties" beforeDir="false" afterPath="$PROJECT_DIR$/beer-service/application-discovery.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beer-service/application-discovery.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beer-service/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/beer-service/application-local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +29,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inventory-service" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\config-repo\inventory-service" />
+      <recent name="D:\work\config-repo\order-service" />
+      <recent name="D:\work\config-repo" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,11 +48,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594565144137</updated>
-      <workItem from="1594565145517" duration="328000" />
+      <workItem from="1594565145517" duration="1143000" />
+      <workItem from="1594567038025" duration="601000" />
+      <workItem from="1594568103154" duration="3029000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="114" key="CommitChangelistDialog2" timestamp="1594565477582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594565477582" />
   </component>
 </project>
